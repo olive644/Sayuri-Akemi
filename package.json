@@ -1,0 +1,24 @@
+{
+  "name": "sayuri",
+  "version": "0.0.1",
+  "description": "Bot Public By Tomoko San#2208",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "canvas": "2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomokoSan20/Sayuri-Akemi.git"
+  },
+  "author": "Tomoko San",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomokoSan20/Sayuri-Akemi/issues"
+  },
+  "homepage": "https://github.com/tomokoSan20/Sayuri-Akemi#readme"
+}
