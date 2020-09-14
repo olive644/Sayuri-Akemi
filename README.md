@@ -1,2 +1,2 @@
 # Sayuri-Akemi
-Bot teste by tomoko
+Discord Bot teste by tomoko
