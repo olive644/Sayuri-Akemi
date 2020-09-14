@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const Canvas = require('canvas');
 require('dotenv').config();
 
 const client = new Discord.Client();
