@@ -15,6 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/tomokoSan20/Sayuri-Akemi.git"
   },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
   "author": "Tomoko San",
   "license": "ISC",
   "bugs": {
