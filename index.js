@@ -7,7 +7,7 @@ const client = new Discord.Client();
 const prefix = process.env.PREFIX;
 
 client.once('ready', () => {
-	console.log('Estou Online!');
+	console.log('Yey, Estou Online!');
 });
 
 client.login(process.env.CLIENT_TOKEN);
