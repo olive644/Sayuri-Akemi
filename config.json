@@ -1,4 +1,18 @@
 {
-	"prefix": "prefix_do_seu_bot",
-	"token": "token_do_seu_bot"
+    "prefixes": [
+        "SeuPrefix",
+        "NomeDoSeuBot!"
+    ],
+    "owners": [
+        "SeuID"
+    ],
+    "game": {
+        "status": "online",
+        "type": "PLAYING",
+        "name": [
+            "YEY! Script By Tomoko Sa #2208"
+        ],
+        "url": "STREAM_URL",
+        "interval": 15
+    }
 }
