@@ -6,3 +6,6 @@ Repositório Público de uma bot discord feita pela Tomoko San!
 
 ## Recursos
   * Bot pública para praticantes de discord
+
+##Suporte
+** Servidor Discord: https://discord.gg/QdgC2F7
