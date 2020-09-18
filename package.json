@@ -1,11 +1,10 @@
 {
-  "name": "sayuri",
+  "name": "seu Bot",
   "version": "0.0.1",
   "description": "Bot Public By Tomoko San#2208",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.3.1",
-    "canvas": "2.6.1"
+    "discord.js": "^12.3.1"
   },
   "devDependencies": {},
   "scripts": {
