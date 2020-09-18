@@ -4,8 +4,6 @@ require('dotenv').config();
 
 const client = new Discord.Client();
 
-const prefix = process.env.PREFIX;
-
 client.once('ready', () => {
 	console.log('Yey, Estou Online!');
 });
