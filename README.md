@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/735555568265199737/756390923260264458/20760160.png" height="200" width="200">
+<img align="center" src="https://cdn.discordapp.com/attachments/735555568265199737/756390923260264458/20760160.png" height="200" width="200">
 
 # Sayuri
 
@@ -8,4 +8,4 @@ Repositório Público de uma bot discord feita pela Tomoko San!
   * Bot pública para praticantes de discord
 
 ## Suporte
-* Servidor Discord: https://discord.gg/QdgC2F7
+* Servidor Discord: [Clique Aqui](https://discord.gg/QdgC2F7)
